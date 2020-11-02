@@ -2,7 +2,7 @@
 
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com).
 
-![Preview](https://github.com/magnobelloni/ConvertMyMoney/blob/master/print.png?raw=true)
+![Preview](https://github.com/MagnoBelloni/ConvertMyMoney/blob/main/print.png)
 
 ## Início
 
